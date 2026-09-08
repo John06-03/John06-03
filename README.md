@@ -1,69 +1,80 @@
 👋 Hi, I'm John
 
-📊 Data Analyst | Python | SQL | Power BI | Tableau
+💻 Data Analyst | Python | SQL | Power BI | Tableau
 
-I'm a passionate Data Analyst focused on transforming raw data into meaningful insights and actionable business decisions.
-
-I enjoy working with data, building interactive dashboards, analyzing trends, and developing practical solutions using programming and analytics tools.
+Passionate about Data Analytics, Business Intelligence, and Software Development, with a focus on transforming data into meaningful insights and building practical solutions.
 
 ---
 
-💫 About Me
+💫 About Me:
 
-- 📊 Aspiring Data Analyst with a strong interest in data-driven problem solving
-- 🐍 Skilled in Python and SQL for data analysis and manipulation
-- 📈 Experienced in creating interactive dashboards using Power BI and Tableau
-- 📑 Comfortable working with Excel for data analysis and reporting
-- 💻 Familiar with Java, HTML, CSS, and JavaScript
-- 🔧 Using Git & GitHub for version control and project management
-- 🚀 Continuously learning and improving my skills in Data Analytics and Business Intelligence
+🎯 I’m currently developing my skills in Data Analytics and Business Intelligence, focusing on Python, SQL, Power BI, Tableau, and Excel.
 
----
+🤝 I’m looking to collaborate on Data Analytics, Business Intelligence, and software development projects.
 
-🛠️ Tech Stack
+🙌 I’m interested in contributing to open-source projects and working on real-world data-driven solutions.
 
-Programming & Web
+🌱 I’m continuously improving my skills in Python, SQL, Data Analysis, Power BI, Tableau, Excel, Java, and JavaScript.
 
-"Python" "Java" "HTML" "CSS" "JavaScript"
+💬 Ask me about Python, SQL, Data Analysis, Power BI, Tableau, and Excel.
 
-Data & Analytics
-
-"SQL" "Excel" "Power BI" "Tableau"
-
-Tools & Version Control
-
-"Git" "GitHub"
+⚡ Fun fact: I enjoy turning raw data into clear insights, interactive dashboards, and meaningful visualizations.
 
 ---
 
-📊 Data Analytics
+🌐 Socials:
 
-I work across the data analytics workflow:
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/%E1%B4%AC%E1%B5%80%E1%B5%81%E1%B4%B3%E1%B5%81%E1%B8%B6%E1%B4%AC%E1%B4%AC%E1%B4%BE-%E1%B5%80%E1%B4%BC%E1%B4%BE%E1%B4%BA-045aa12b3)
 
-Data Collection → Data Cleaning → Data Analysis → Visualization → Insights → Business Decisions
-
-I'm particularly interested in building dashboards and analytical projects that turn complex datasets into clear, understandable insights.
+""Gmail" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:arugulajohn102@gmail.com)
 
 ---
 
-🚀 What I'm Currently Working On
+💻 Tech Stack:
 
-- 📊 Building Power BI & Tableau dashboards
-- 🐍 Improving my Python data analysis skills
-- 🗄️ Strengthening SQL and database concepts
-- 📈 Developing real-world Business Intelligence projects
-- 💻 Building and documenting projects on GitHub
+🐍 Programming Languages
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+📊 Data Analytics & Business Intelligence
+
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"Power BI" (https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+"Tableau" (https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+"Excel" (https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+🌐 Web Development
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+🛠️ Tools & Version Control
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-🎯 Career Goal
+📊 GitHub Stats:
 
-To build a career as a Data Analyst / Business Intelligence Analyst, where I can use data, technology, and analytical thinking to solve real-world business problems.
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=John06-03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John06-03&layout=compact&theme=tokyonight&hide_border=true" height="180"/></div>---
 
----
+🔥 GitHub Streak:
 
-🤝 Let's Connect
+<div align="center"><img src="https://streak-stats.demolab.com?user=John06-03&theme=tokyonight&hide_border=true" /></div>---
 
-I'm always interested in learning, collaborating on projects, and connecting with people in the Data Analytics & Technology community.
+🏆 GitHub Trophies:
 
-⭐ Feel free to explore my repositories and check out my projects!
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=John06-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /></div>---
+
+📈 Contribution Graph:
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=John06-03&theme=tokyo-night&hide_border=true" /></div>---
+
+<div align="center">💡 "Turning Data into Insights, and Ideas into Solutions."
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
